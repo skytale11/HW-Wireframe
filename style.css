@@ -3,21 +3,19 @@ body {
     color: #777;
     background: #777;
     width: 960px;
-    font-size: 18px;    
+    font-size: 18px;
+    margin: 0 auto;
 }
 
 div {
     color:black;
     background-color: #ebebeb;
-    font-weight: bold;
     font-family: 'Arial', 'Helvetica-Neue', Helvetica, sans-serif;
     text-align: center;
-    border: 1px solid black;
-    box-sizing: border-box;
-
     }
 
 #article {
     text-align: center;
     background-color:#777;
+    text-color: #ebebeb;
 }
